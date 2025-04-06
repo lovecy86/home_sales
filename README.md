@@ -33,4 +33,6 @@ This project analyzes real estate sales data using Apache Spark and SparkSQL. Th
 
 ## Insights
 From the analysis, it is found that cached execution is the fastest, partitioning is faster and uncached is the slowest.
-![cached](cached.png)                    ![partitioned](partitioned.png)                        ![uncached](uncached.png)
+![cached](cached.png)               
+![partitioned](partitioned.png)    
+![uncached](uncached.png)
